@@ -1,13 +1,13 @@
-package com.empresa.honorato;
+package com.empresa.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HonoratoApplication {
+public class ApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HonoratoApplication.class, args);
+		SpringApplication.run(ApiApplication.class, args);
 	}
 
 }
