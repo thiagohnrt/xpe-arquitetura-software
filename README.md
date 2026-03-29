@@ -188,21 +188,6 @@ No Windows:
 - Swagger nao abre: confira se a aplicacao subiu sem erros e use exatamente `/swagger-ui/index.html`.
 - Dados nao aparecem: valide `spring.sql.init.mode=always` e `spring.jpa.defer-datasource-initialization=true` em [src/main/resources/application.properties](src/main/resources/application.properties).
 
-## Contribuicao
-
-Sugestoes de melhoria sao bem-vindas.
-
-Padrao recomendado para contribuicoes:
-
-1. Criar branch para a feature/correcao.
-2. Implementar mantendo a separacao de camadas da arquitetura hexagonal.
-3. Executar testes antes de abrir PR.
-4. Atualizar documentacao quando houver impacto em API/arquitetura.
-
-## Licenca
-
-Licenca ainda nao definida no repositorio.
-
 ## Roadmap
 
 Melhorias que podem elevar o projeto:
@@ -210,4 +195,3 @@ Melhorias que podem elevar o projeto:
 - Adicionar seguranca (autenticacao/autorizacao).
 - Evoluir cobertura de testes de unidade e integracao.
 - Adicionar versionamento de API (exemplo: `/api/v1`).
-- Enriquecer documentacao OpenAPI com anotacoes por endpoint.
