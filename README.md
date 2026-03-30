@@ -17,8 +17,6 @@ O projeto foi implementado com Arquitetura Hexagonal (Ports and Adapters), com s
 - [Tratamento de erros](#tratamento-de-erros)
 - [Testes](#testes)
 - [Troubleshooting](#troubleshooting)
-- [Contribuicao](#contribuicao)
-- [Licenca](#licenca)
 - [Roadmap](#roadmap)
 
 ## Visao geral
