@@ -71,14 +71,12 @@ Fluxo de alto nivel:
 
 A documentacao arquitetural no padrao C4 esta em:
 
-Textual:
-
 - [docs/c4/context.md](docs/c4/context.md)
 - [docs/c4/containers.md](docs/c4/containers.md)
 - [docs/c4/components.md](docs/c4/components.md)
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 
-Desenho:
+Desenho arquitetural:
 
 - [docs/c4/diagram-c4.drawio](docs/c4/diagram-c4.drawio)
 - [docs/c4/diagram-c4.png](docs/c4/diagram-c4.png)
